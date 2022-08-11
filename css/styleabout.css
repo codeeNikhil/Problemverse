@@ -1,0 +1,35 @@
+
+.logoimg{
+    height: 100px;
+    width: 150px;
+    margin: 7px;
+    margin-top: 27px;
+    
+}
+.htmlimg{
+    width: 244px;
+}
+.technology{
+    margin-top: 127px;
+    font-size: 22px;
+}
+.about-main {
+    background-image: url(../images/lightbg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 116px;
+    text-align: center;
+    height: 765px;
+    align-items: center;
+}
+.highlight{
+    color: rgb(122, 0, 0);
+    font-size: 22px;
+    font-weight: 400;
+}
+.aboutpara{
+    font-size: 21px;
+    padding: 0px 125px;
+}

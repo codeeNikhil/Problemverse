@@ -1,0 +1,77 @@
+.loginform{
+    padding-top: 190px;
+    color: black;
+    height: 795px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(../images/login.jpg);
+    background-size: cover;
+}
+.signup{
+    display: flex;
+   flex-direction: column;
+    align-items: center;
+}
+
+.formcontainer{
+    height: 431px;
+    width: 647px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+    border: 3px solid rgb(71, 0, 0);
+    box-shadow: 0 6px 28px 0px rgb(0 0 0);
+   
+}
+
+.userform{
+    margin: 44px 0px;
+}
+.submitlog {
+    background: none;
+    border: none;
+    padding: 5px 1.8rem;
+    font-size: 1.4rem;
+    border-radius: 2rem;
+    color: #000000;
+    font-size: 15px;
+    box-shadow: 0 2px 7px 2px rgb(0, 0, 0);
+    margin-top: 10px;
+    outline: none;
+  }
+  .submitlog:hover {
+    box-shadow: 0 2px 7px 2px rgb(141, 0, 87);
+    cursor: pointer;
+    background: none;
+  }
+  .lablelog{
+    font-size: 19px;
+
+  }
+  .log {
+    background: none;
+    border: 2px solid rgb(43, 0, 0);
+    border-radius: 20px;
+    height: 37px;
+ width: 267px;
+    margin: 7px 0px;
+    text-align: center;
+    font-size: 18px;
+    
+}
+.onee{
+      margin-left: 63px;
+}
+.two{
+    margin-left: 27px;
+}
+.loginlogo{
+
+    height: 100px;
+    width: 100px;
+    margin-top: -81px;
+    padding-bottom : 27px;
+
+}

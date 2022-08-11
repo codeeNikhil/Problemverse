@@ -1,0 +1,83 @@
+/*request page css*/
+
+.post {
+  padding-top: 58px;
+  color: black;
+  display: flex;
+  height: 781px;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(../images/request.jpg);
+  background-size: cover;
+}
+  .field {
+    color: rgb(44, 0, 48);
+    background: none;
+    font-weight: 600;
+    border: 2px solid rgb(0, 0, 0);
+    width: 954px;
+    padding: 13px 0px;
+    margin: 5px 0px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 2rem;
+    font-size: 15px;
+  }
+  ::placeholder {
+    color: black;
+  }
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .radiobtn {
+    display: flex;
+  }
+  .posthead {
+    margin: 40px 0px;
+    padding: 4px 14px;
+    box-shadow: 0 4px 19px -8px rgb(43, 0, 44);
+    font-size: 26px;
+    border-radius: 2rem;
+  }
+  .area {
+    padding: 24px 0px;
+  }
+  .radioo {
+    padding: 0px 4px;
+    margin-left: 0px;
+  }
+  #device-type {
+    border-radius: 2rem;
+    padding: 5px 18px;
+    font-weight: 600;
+    margin: -7px 0px;
+    background: none;
+  }
+  
+  .submit {
+    background: none;
+    border: none;
+    padding: 5px 1.8rem;
+    font-size: 1.4rem;
+    border-radius: 2rem;
+    color: #000000;
+    font-size: 15px;
+    box-shadow: 0 2px 7px 2px rgb(41, 0, 0);
+    margin-top: 10px;
+    outline: none;
+  }
+  .submit:hover {
+    box-shadow: 0 2px 7px 2px rgb(122, 0, 221);
+    cursor: pointer;
+    background: none;
+  }
+  #addresss {
+    display: none;
+  }
+  #paybtn {
+    display: none;
+  }
+  
